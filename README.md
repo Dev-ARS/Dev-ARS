@@ -6,5 +6,8 @@
 
 ![Anderson GitHub stats](https://github-readme-stats.vercel.app/api?username=Dev-ARS&show_icons=true&theme=radical)
 
+## Tecnologias que eu uso todo dia
 
-
+<div style="display: inline_block"><br/>
+  <img align="center" alt="html5" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+</div>
